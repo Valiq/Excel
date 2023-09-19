@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\bin\Debug\net6.0\Yandex.exe
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\bin\Debug\net6.0\Yandex.deps.json
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\bin\Debug\net6.0\Yandex.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\bin\Debug\net6.0\Yandex.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\bin\Debug\net6.0\Yandex.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\Yandex.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\Yandex.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\Yandex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\Yandex.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\Yandex.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\Yandex.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\Yandex.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\refint\Yandex.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\Yandex.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\Yandex.genruntimeconfig.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\Yandex\obj\Debug\net6.0\ref\Yandex.dll

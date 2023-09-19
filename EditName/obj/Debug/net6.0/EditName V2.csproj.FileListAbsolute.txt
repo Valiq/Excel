@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\bin\Debug\net6.0\EditName V2.exe
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\bin\Debug\net6.0\EditName V2.deps.json
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\bin\Debug\net6.0\EditName V2.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\bin\Debug\net6.0\EditName V2.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\bin\Debug\net6.0\EditName V2.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\EditName V2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\EditName V2.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\EditName V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\EditName V2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\EditName V2.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\EditName V2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\EditName V2.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\refint\EditName V2.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\EditName V2.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\EditName V2.genruntimeconfig.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Projects\EditName V2\obj\Debug\net6.0\ref\EditName V2.dll

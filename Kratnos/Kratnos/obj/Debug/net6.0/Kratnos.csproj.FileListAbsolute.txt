@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Kratnos\Kratnos\bin\Debug\net6.0\Kratnos.exe
+C:\Users\Admin\source\repos\Kratnos\Kratnos\bin\Debug\net6.0\Kratnos.deps.json
+C:\Users\Admin\source\repos\Kratnos\Kratnos\bin\Debug\net6.0\Kratnos.runtimeconfig.json
+C:\Users\Admin\source\repos\Kratnos\Kratnos\bin\Debug\net6.0\Kratnos.dll
+C:\Users\Admin\source\repos\Kratnos\Kratnos\bin\Debug\net6.0\Kratnos.pdb
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\Kratnos.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\Kratnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\Kratnos.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\Kratnos.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\Kratnos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\Kratnos.dll
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\refint\Kratnos.dll
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\Kratnos.pdb
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\Kratnos.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\ref\Kratnos.dll
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\source\repos\Kratnos\Kratnos\obj\Debug\net6.0\Kratnos.csproj.ResolveComReference.cache
